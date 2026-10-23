@@ -3,4 +3,4 @@ export const memoryDb = {
   automobiles: [],
   drivers: [],
   utilizations: []
-};
+}
